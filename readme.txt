@@ -3,7 +3,7 @@ Contributors: shabbirbhimani
 Donate Link: http://imtips.co
 Tags: Facebook, Shares
 Requires at least: 2.8
-Tested up to: 4.0
+Tested up to: 4.1
 License: GPLv2 or later
 Stable tag: trunk
 
